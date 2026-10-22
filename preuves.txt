@@ -1,0 +1,37 @@
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js>  node partie1.js
+Âge : 11 ans -> Prix : 1500 FCFA
+Âge : 12 ans -> Prix : 1500 FCFA
+Âge : 13 ans -> Prix : 1500 FCFA
+Âge : 14 ans -> Prix : 1500 FCFA
+Âge : 15 ans -> Prix : 1500 FCFA
+Âge : 16 ans -> Prix : 2500 FCFA
+Âge : 17 ans -> Prix : 2500 FCFA
+Âge : 18 ans -> Prix : 2500 FCFA
+Âge : 19 ans -> Prix : 2500 FCFA
+Âge : 20 ans -> Prix : 2500 FCFA
+Recette totale : 20000 FCFA
+Billets à 1500 FCFA (moins de 16 ans) : 5
+Billets à 2500 FCFA (16 ans et plus) : 5
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js> 
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js> node partie2.js
+Âge : 11 ans -> Prix : 1500 FCFA
+Âge : 12 ans -> Prix : 1500 FCFA
+Âge : 13 ans -> Prix : 1500 FCFA
+Âge : 14 ans -> Prix : 1500 FCFA
+Âge : 15 ans -> Prix : 1500 FCFA
+Âge : 16 ans -> Prix : 2500 FCFA
+Âge : 17 ans -> Prix : 2500 FCFA
+Âge : 18 ans -> Prix : 2000 FCFA
+Âge : 19 ans -> Prix : 2000 FCFA
+Âge : 20 ans -> Prix : 2000 FCFA
+Nouvelle recette totale : 18500 FCFA
+Billets à 1500 FCFA : 5
+Billets à 2500 FCFA : 2
+Billets à 2000 FCFA (18 ans et plus) : 3
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js> 
