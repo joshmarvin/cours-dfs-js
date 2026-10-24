@@ -1,0 +1,10 @@
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js\cantine ABO JOSUE> node cantine.js
+===== Caisse de la cantine =====
+Client : Awa
+Portion 1 : Attiéké-poisson - 1500 FCFA
+Portion 2 : Attiéké-poisson - 1500 FCFA
+Portion 3 : Attiéké-poisson - 1500 FCFA
+Total à payer : 4500 FCFA
+Montant versé : 5000 FCFA
+Monnaie à rendre : 500 FCFA
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js\cantine ABO JOSUE> 
