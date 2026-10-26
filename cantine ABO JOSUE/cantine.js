@@ -1,6 +1,6 @@
 // ===== Données de la commande =====
 const client = "Awa";          // string
-const codePlat = 1;            // number (1, 2 ou 3)
+const codePlat = 3;            // number (1, 2 ou 3)
 const quantiteTexte = "3";     // string
 const montantVerse = 5000;     // number, FCFA
 
@@ -21,8 +21,12 @@ switch (codePlat) {
     prixUnitaire = 2000;
     break;
   case 3:
-    nomPlat = "Alloco-œuf";
+    nomPlat = "Alloco-œuf"; 
     prixUnitaire = 1000;
+    break;
+  default:
+    nomPlat = "Plat inconnu";
+    prixUnitaire = 0;
     break;
 }
 

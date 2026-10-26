@@ -1,0 +1,50 @@
+J06 — Preuve d’exécution
+
+Commande réellement lancée dans Windows PowerShell :
+node .\depenses.js
+
+Sortie obtenue après avoir terminé le programme :
+[Collez ici le rapport complet, y compris le tableau avant et après le tri.]
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js\depart> node depenses.js
+Avant tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+
+
+Archive à remettre : J06_Nom_Prenom.zip
+Contenu attendu : depenses.js et preuves.txt
+Après tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+
+=== Bilan des dépenses ===
+Total : 14500 FCFA
+Moyenne par jour : 2071.43 FCFA
+Dépenses > 2000 FCFA : 2500, 4000, 2500, 3000
+Maximum : 4000 FCFA
+Copie triée : 0, 1000, 1500, 2500, 2500, 3000, 4000
+
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js\depart> node depenses.js
+Avant tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+Après tri : [
+  1500, 2500,    0,
+  4000, 1000, 2500,
+  3000
+]
+
+=== Bilan des dépenses ===
+Total : 14500 FCFA
+Moyenne par jour : 2071.43 FCFA
+Dépenses > 2000 FCFA : 2500, 4000, 2500, 3000
+Maximum : 4000 FCFA
+Copie triée : 0, 1000, 1500, 2500, 2500, 3000, 4000
+
+PS C:\Users\ABO KOUAME JOSUE\Documents\cours dfs-js\depart> 
